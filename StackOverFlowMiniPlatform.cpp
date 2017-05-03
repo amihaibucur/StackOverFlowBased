@@ -4,8 +4,6 @@
 #include<fstream>
 using namespace std;
 
-//setdate si get/setpassword
-
 class Validations
 {
 public:
@@ -4704,8 +4702,8 @@ void main() {
 	/*SimpleUser ================================================*/
 
 	/*SimpleUser a;
-	SimpleUser b("metezeu", "cateluscuparulcret", "a.mihai@yahoo.com", 3);
-	SimpleUser c("metezeu1", "metezeu1234", "email@yahoo.com", "Mihai Bucur", 2, "Helper", "Male");
+	SimpleUser b("mihaib", "omleta123", "a.mihai@yahoo.com", 3);
+	SimpleUser c("mihaib11", "parola1234", "email@yahoo.com", "Mihai Bucur", 2, "Helper", "Male");
 	SimpleUser d(b);
 	SimpleUser e(c);
 	SimpleUser f;
@@ -4743,11 +4741,11 @@ void main() {
 	//Questions ==========================================================================
 	//Question q1;
 	//Question q2("Mihai");
-	//SimpleUser c("metezeu1", "metezeu1234", "email@yahoo.com", "Mihai Bucur", 2, "Helper", "Male");
-	//SimpleUser d("metezeu2", "metezeu12345", "gmail@yahoo.com", "Ionut Bucur", 2, "Friendly", "Female");
-	//Question q4(c, "JAVA", "Ce intrebare e asta?");
-	//Question q5(d, "C++", "Nu este o intrebare", 3);
-	//Question q6(c, "KDA", "PPoate fi una.", 5);
+	//SimpleUser c("metezu1", "metezu1234", "email@yahoo.com", "Mihai Bucur", 2, "Helper", "Male");
+	//SimpleUser d("meteze2", "metezu12345", "gmail@yahoo.com", "Ionut Bucur", 2, "Friendly", "Female");
+	//Question q4(c, "JAVA", "Ce este un ArrayList?");
+	//Question q5(d, "C++", "C++ sau Java?", 3);
+	//Question q6(c, "KDA", "Nu?", 5);
 	//q4 = q5;
 	///*cin >> q1;
 	//cout << q1;*/
